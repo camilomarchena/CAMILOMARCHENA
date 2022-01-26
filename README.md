@@ -12,5 +12,5 @@ My name is Camilo, I am from Colombia, more specifically from Bucaramanga, I am 
 
 ## Contact📲
 
-Linkdin: https://www.linkedin.com/in/jorge-camilo-rueda-marchena/
-Gmail : camilormarchena@gmail.com
+- Linkdin: https://www.linkedin.com/in/jorge-camilo-rueda-marchena/
+- Gmail : camilormarchena@gmail.com
