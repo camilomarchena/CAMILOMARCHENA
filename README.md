@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hello😎
 
-<!--
-**CAMILOMARCHENA/CAMILOMARCHENA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Camilo, I am from Colombia, more specifically from Bucaramanga, I am a systems engineer with a lot of knowledge to contribute to the world.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill🎯
+- Using Python since 2020
+- Django es my favorite framework
+-  Databases, usually PostgresSQL
+- Linux
+- Java
+
+## Contact📲
+
+Linkdin: https://www.linkedin.com/in/jorge-camilo-rueda-marchena/
+Gmail : camilormarchena@gmail.com
