@@ -6,9 +6,10 @@ My name is Camilo, I am from Colombia, more specifically from Bucaramanga, I am 
 ## Skill🎯
 - Using Python since 2020
 - Django es my favorite framework
--  Databases, usually PostgresSQL
+- Databases, usually PostgresSQL
+- Knowledge in Google Cloud
+- Docker
 - Linux
-- Java
 
 ## Contact📲
 
