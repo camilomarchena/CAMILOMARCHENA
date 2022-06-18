@@ -12,7 +12,6 @@ My name is Camilo, I am from Colombia, more specifically from Bucaramanga, I am 
 - Knowledge in Google Cloud
 - Docker
 - Linux
-
 ## Contact📲
 
 - Linkdin: https://www.linkedin.com/in/jorge-camilo-rueda-marchena/
