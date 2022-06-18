@@ -6,6 +6,7 @@ My name is Camilo, I am from Colombia, more specifically from Bucaramanga, I am 
 ## Skill🎯
 - JAVA SE and EE
 - Using Python since 2020
+- Junior in RoR
 - Django es my favorite framework
 - Databases, usually PostgresSQL
 - Knowledge in Google Cloud
