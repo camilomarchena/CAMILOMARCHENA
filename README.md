@@ -14,5 +14,5 @@ My name is Camilo, I am from Colombia, more specifically from Bucaramanga, I am 
 - Linux
 ## Contact📲
 
-- Linkdin: https://www.linkedin.com/in/jorge-camilo-rueda-marchena/
+- Linkedin: https://www.linkedin.com/in/jorge-camilo-rueda-marchena/
 - Gmail : camilormarchena@gmail.com
