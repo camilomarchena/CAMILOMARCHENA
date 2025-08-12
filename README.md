@@ -27,7 +27,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=camilomarchena&show_icons=true&theme=radical" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilomarchena&layout=compact&theme=radical" />
 </p>
 
@@ -41,5 +40,3 @@
 
 ---
 
-> _"First, solve the problem. Then, write the code."_  
-> — John Johnson
